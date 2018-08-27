@@ -1,1 +1,2 @@
 koreha test desu
+これもテストです
